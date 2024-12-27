@@ -1,6 +1,5 @@
 
 ![image](https://github.com/user-attachments/assets/49693b59-14a0-4a9a-bc01-8d2c332cd902)
-
 ## Customer Churn Analysis
 ---
 ## Data Analysis
