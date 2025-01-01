@@ -4,7 +4,7 @@
 ---
 ## Data Analysis
 
-In this project, we conducted a thorough analysis of the dataset to uncover insights and trends. The analysis was performed using the following libraries:
+In this project, we thoroughly analysed the dataset to uncover insights and trends. The analysis was performed using the following libraries:
 
 - **Pandas**: For data manipulation and analysis.
 - **NumPy**: For numerical operations.
@@ -23,7 +23,7 @@ In this project, we conducted a thorough analysis of the dataset to uncover insi
 
 3. **Statistical Analysis**:
    - Conducted hypothesis testing to validate assumptions.
-   - Used correlation analysis to identify relationships between variables.
+   - Correlation analysis was used to identify relationships between variables.
 
 4. **Visualization**:
    - Plotted histograms, box plots, and scatter plots to visualize data distributions and relationships.
